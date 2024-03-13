@@ -41,7 +41,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](todo.png)
 
 Todo App is a simple yet versatile task management solution built with React. Whether you're a beginner learning React or an experienced developer practicing CRUD operations, Todo App offers a user-friendly interface and powerful functionality to manage your tasks efficiently.
 
